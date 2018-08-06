@@ -14346,11 +14346,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\G\\webhost\\Dev\\gimmegif.web.host\\gimmegif.web.host\\gimmegif.web.host.csproj",
+      "projectUniqueName": "C:\\Users\\Pascal\\Documents\\GitHub\\gifBuilder\\gimmegif.web.host\\gimmegif.web.host\\gimmegif.web.host.csproj",
       "projectName": "gimmegif.web.host",
-      "projectPath": "C:\\G\\webhost\\Dev\\gimmegif.web.host\\gimmegif.web.host\\gimmegif.web.host.csproj",
+      "projectPath": "C:\\Users\\Pascal\\Documents\\GitHub\\gifBuilder\\gimmegif.web.host\\gimmegif.web.host\\gimmegif.web.host.csproj",
       "packagesPath": "C:\\Users\\Pascal\\.nuget\\packages\\",
-      "outputPath": "C:\\G\\webhost\\Dev\\gimmegif.web.host\\gimmegif.web.host\\obj\\",
+      "outputPath": "C:\\Users\\Pascal\\Documents\\GitHub\\gifBuilder\\gimmegif.web.host\\gimmegif.web.host\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
